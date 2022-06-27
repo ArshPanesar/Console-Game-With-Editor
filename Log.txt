@@ -16,6 +16,85 @@
 [CRITICAL] In DebugCursor.c -> InitCursor(MenuID): MenuID is INVALID.
 [INFO] InitMainMenu(): Initializing Main Menu
 [INFO] QuitMainMenu(): Quiting Main Menu
-[INFO] InitShootEditMenu(): Initializing Shoot Editing Menu
-[INFO] QuitTerminal(): Windows Console Closed.
-[INFO] Logging Session Ended!
+[INFO] InitSpawnMenu(): Initializing Spawn Menu
+[INFO] QuitSpawnMenu(): Quiting Spawn Menu
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] InitSpawnMenu(): Initializing Spawn Menu
+[INFO] QuitSpawnMenu(): Quiting Spawn Menu
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] QuitEditingMode(): Debug Session Ended
+[INFO] Game World: Running
