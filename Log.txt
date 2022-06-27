@@ -1,0 +1,21 @@
+[INFO] Logging Session Started!
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 116, 36 )
+[INFO] InitTerminal(): Windows Console Initialized. Size: (R, C) = (116, 36)
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 45 )
+[INFO] Terminal Size: R, C -> 100, 45
+[INFO] Scanning Directory (Platform -> Windows): resources\*
+[INFO] Scanning Directory (Platform -> Windows): resources/good hordes\*
+[INFO] Scanning Directory (Platform -> Windows): resources/good hordes\*
+[INFO] OpenFileFromName(): File Opened. Path: resources/good hordes/horde1.hordefile
+[INFO] CloseFile(): File Closed. Name: horde1.hordefile, Extension: .hordefile
+[WARN] SendNextEnemyHorde(): Keeping Horde.IsReady Always True
+[INFO] SendNextEnemyHorde() -> Sent Out a New Horde!
+[INFO] Game World: Editing Mode
+[INFO] InitEditingMode(): Debug Session Started
+[INFO] SetTerminalSize(): Windows Console Resized. Size: (R, C) = ( 100, 53 )
+[CRITICAL] In DebugCursor.c -> InitCursor(MenuID): MenuID is INVALID.
+[INFO] InitMainMenu(): Initializing Main Menu
+[INFO] QuitMainMenu(): Quiting Main Menu
+[INFO] InitShootEditMenu(): Initializing Shoot Editing Menu
+[INFO] QuitTerminal(): Windows Console Closed.
+[INFO] Logging Session Ended!
