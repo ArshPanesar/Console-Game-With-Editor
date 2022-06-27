@@ -1,0 +1,42 @@
+#PATHLOGIC (Vector2)
+STOP_AT_END=(0, 0)
+LOOP=(1, 1)
+REVERSE=(2, 2)
+
+#CONDITIONAL_SHOOTER (Vector2)
+NO_FUNC=(0, 0)
+AT_PATH_POSITIONS=(1, 1)
+
+#PlayerSpeed (Vector2)
+SlowSpeed=(10, 16)
+MedSpeed=(15, 16)
+FastSpeed=(20, 16)
+
+#EnemySpeed (Vector2)
+SlowSpeed=(10, 16)
+MedSpeed=(15, 16)
+FastSpeed=(20, 16)
+
+#PlayerBulletSpeed (Vector2)
+SlowSpeed= (18, 16)
+MedSpeed = (25, 25)
+FastSpeed= (30, 30)
+XSuperFast= (31, 31)
+
+#EnemyBulletSpeed (Vector2)
+SlowSpeed= (36, 16)
+MedSpeed = (50, 25)
+FastSpeed= (62, 31)
+
+#PlayerWaitTimes (float)
+even_smoller = 0.125
+Xsuper_smol = 0.15
+smol = 0.17
+
+#EnemyWaitTimes (float)
+none=0.0
+very_small = 0.1
+small = 0.225
+med   = 0.3
+large = 0.4
+extremely_large=0.7

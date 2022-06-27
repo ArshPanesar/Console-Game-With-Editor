@@ -1,0 +1,59 @@
+#HordeData
+NumOfEnemies = 3
+#Enemy1
+NumOfBullets = 1
+BulletDirections = 
+(0, 1), 
+BulletSpeeds = 
+(18, 16), 
+CooldownTime = 0.400000
+BulletType = 0
+ActiveTime = 0.0
+WaitTime = 0.0
+CondFunc = 0
+NumOfCoords = 1
+PathCoords = 
+(18, 13), 
+PathSpeeds = 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+PathLogic = 1
+#Enemy2
+NumOfBullets = 1
+BulletDirections = 
+(0, 1), 
+BulletSpeeds = 
+(18, 16), 
+CooldownTime = 0.400000
+BulletType = 0
+ActiveTime = 0.0
+WaitTime = 0.0
+CondFunc = 0
+NumOfCoords = 1
+PathCoords = 
+(50, 5), 
+PathSpeeds = 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+PathLogic = 1
+#Enemy3
+NumOfBullets = 1
+BulletDirections = 
+(0, 1), 
+BulletSpeeds = 
+(18, 16), 
+CooldownTime = 0.400000
+BulletType = 0
+ActiveTime = 0.0
+WaitTime = 0.0
+CondFunc = 0
+NumOfCoords = 1
+PathCoords = 
+(81, 13), 
+PathSpeeds = 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+PathLogic = 1

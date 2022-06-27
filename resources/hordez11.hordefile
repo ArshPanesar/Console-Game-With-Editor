@@ -1,0 +1,139 @@
+#HordeData
+NumOfEnemies = 7
+#Enemy1
+NumOfBullets = 0
+BulletDirections = 
+BulletSpeeds = 
+CooldownTime = 0.100000
+BulletType = 0
+ActiveTime = 0.000000
+WaitTime = 0.000000
+CondFunc = 0
+NumOfCoords = 2
+PathCoords = 
+(40, 17), 
+(2, 17), 
+PathSpeeds = 
+(15, 15), 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+0.500000, 
+PathLogic = 1
+#Enemy2
+NumOfBullets = 0
+BulletDirections = 
+BulletSpeeds = 
+CooldownTime = 0.100000
+BulletType = 0
+ActiveTime = 0.000000
+WaitTime = 0.000000
+CondFunc = 0
+NumOfCoords = 1
+PathCoords = 
+(46, 2), 
+PathSpeeds = 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+PathLogic = 1
+#Enemy3
+NumOfBullets = 0
+BulletDirections = 
+BulletSpeeds = 
+CooldownTime = 0.100000
+BulletType = 0
+ActiveTime = 0.000000
+WaitTime = 0.000000
+CondFunc = 0
+NumOfCoords = 2
+PathCoords = 
+(52, 17), 
+(88, 17), 
+PathSpeeds = 
+(15, 15), 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+0.500000, 
+PathLogic = 1
+#Enemy4
+NumOfBullets = 0
+BulletDirections = 
+BulletSpeeds = 
+CooldownTime = 0.100000
+BulletType = 0
+ActiveTime = 0.000000
+WaitTime = 0.000000
+CondFunc = 0
+NumOfCoords = 2
+PathCoords = 
+(40, 7), 
+(29, 7), 
+PathSpeeds = 
+(15, 15), 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+0.500000, 
+PathLogic = 1
+#Enemy5
+NumOfBullets = 0
+BulletDirections = 
+BulletSpeeds = 
+CooldownTime = 0.100000
+BulletType = 0
+ActiveTime = 0.000000
+WaitTime = 0.000000
+CondFunc = 0
+NumOfCoords = 2
+PathCoords = 
+(40, 12), 
+(15, 12), 
+PathSpeeds = 
+(15, 15), 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+0.500000, 
+PathLogic = 1
+#Enemy6
+NumOfBullets = 0
+BulletDirections = 
+BulletSpeeds = 
+CooldownTime = 0.100000
+BulletType = 0
+ActiveTime = 0.000000
+WaitTime = 0.000000
+CondFunc = 0
+NumOfCoords = 2
+PathCoords = 
+(52, 7), 
+(63, 7), 
+PathSpeeds = 
+(15, 15), 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+0.500000, 
+PathLogic = 1
+#Enemy7
+NumOfBullets = 0
+BulletDirections = 
+BulletSpeeds = 
+CooldownTime = 0.100000
+BulletType = 0
+ActiveTime = 0.000000
+WaitTime = 0.000000
+CondFunc = 0
+NumOfCoords = 2
+PathCoords = 
+(52, 12), 
+(76, 12), 
+PathSpeeds = 
+(15, 15), 
+(15, 15), 
+PathWaitTimePerCoord = 
+0.500000, 
+0.500000, 
+PathLogic = 1
